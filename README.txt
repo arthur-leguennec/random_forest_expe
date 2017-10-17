@@ -1,4 +1,4 @@
-Experience with random forest
+Experiment with random forest
 By default :
 	- 100 trees
 	- number of variables in each tree: the squared root of the number of features
